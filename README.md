@@ -1,5 +1,8 @@
 # Pixeldraw - Пиксельный редактор
 
+<img width="463" height="481" alt="image" src="https://github.com/user-attachments/assets/cafe349f-8be2-4df1-8010-5037e41417fa" />
+
+
 Описание проекта
 
 Pixeldraw - это простое графическое приложение на Python, созданное с использованием библиотеки tkinter.
